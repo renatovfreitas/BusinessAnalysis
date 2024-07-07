@@ -8,6 +8,7 @@ Excel Spreadsheets - Cashflow
 Firebird Database - Sales
 
 Tools Used:
+
 Python - extract, clean, transform, manipulate and merge excel files; create postgreesql database with the merged excel files data
 
 SQL - create and edit views of selected data

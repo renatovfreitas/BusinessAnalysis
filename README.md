@@ -2,12 +2,16 @@
 This project was created to analyze the performance of a retail business in the sector of agricultural machinery, parts and services.
 
 Data Sources:
+
 Excel Spreadsheets - Cashflow
+
 Firebird Database - Sales
 
 Tools Used:
 Python - extract, clean, transform, manipulate and merge excel files; create postgreesql database with the merged excel files data
+
 SQL - create and edit views of selected data
+
 Power Bi - Combine data into one visualization
 
 Link:

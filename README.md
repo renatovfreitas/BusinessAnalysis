@@ -1,11 +1,11 @@
 # BusinessAnalysis
-This project was created to analyze the performance of a retail business in the sector of agricultural machinery, parts and services located in Brazil.
+This project was created to analyze the overall performance of a retail business in the sector of agricultural machinery, parts and services located in Brazil.
 
 Data Sources:
 
-Excel Spreadsheets - Cashflow
+Cashflow - Excel Spreadsheets
 
-Firebird Database - Sales
+Sales - Firebird Database
 
 Tools Used:
 
